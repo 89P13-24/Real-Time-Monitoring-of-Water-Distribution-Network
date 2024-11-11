@@ -1,5 +1,3 @@
-*** Author : Ishan Gupta ***
-
 This repo contains two ipynb notebooks which act as producers and consumers.
 You can direclty download both notebooks and run them.
 You must ensure, you have Apache Kafka installed in your system.
